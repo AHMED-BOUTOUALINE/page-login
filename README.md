@@ -23,7 +23,7 @@ CSS3
 
 🌐 Live Demo
 
-👉 Live Preview: Add your GitHub Pages link here
+👉 Live Preview:
 https://ahmed-boutoualine.github.io/page-login/
 
 
