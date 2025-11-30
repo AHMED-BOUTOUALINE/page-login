@@ -39,7 +39,9 @@ Open index.html in your browser
 Customize the styles or logic as needed
 
 📸 Preview
-
+<p align="center">
+  <img src="/page_login.pngpage" alt="Previeww">
+</p>
 
 
 📄 License
