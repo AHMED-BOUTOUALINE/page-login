@@ -40,7 +40,7 @@ Customize the styles or logic as needed
 
 📸 Preview
 <p align="center">
-  <img src="/page_login.pngpage" alt="Previeww">
+  <img src="/page_login.png" alt="Previeww">
 </p>
 
 
